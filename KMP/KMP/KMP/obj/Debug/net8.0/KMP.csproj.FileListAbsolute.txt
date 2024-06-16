@@ -1,0 +1,15 @@
+F:\FCI\competitive-programming\KMP\KMP\KMP\bin\Debug\net8.0\KMP.exe
+F:\FCI\competitive-programming\KMP\KMP\KMP\bin\Debug\net8.0\KMP.deps.json
+F:\FCI\competitive-programming\KMP\KMP\KMP\bin\Debug\net8.0\KMP.runtimeconfig.json
+F:\FCI\competitive-programming\KMP\KMP\KMP\bin\Debug\net8.0\KMP.dll
+F:\FCI\competitive-programming\KMP\KMP\KMP\bin\Debug\net8.0\KMP.pdb
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.GeneratedMSBuildEditorConfig.editorconfig
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.AssemblyInfoInputs.cache
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.AssemblyInfo.cs
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.csproj.CoreCompileInputs.cache
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.sourcelink.json
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.dll
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\refint\KMP.dll
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.pdb
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\KMP.genruntimeconfig.cache
+F:\FCI\competitive-programming\KMP\KMP\KMP\obj\Debug\net8.0\ref\KMP.dll
